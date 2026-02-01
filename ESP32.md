@@ -5,6 +5,12 @@ https://www.espressif.com/ja-jp/products/socs/esp32
 
 https://ja.wikipedia.org/wiki/ESP32
 
+## はじめ方
+2021年10月31日
+ESP32の初期設定（Arduino IDEの導入からLチカまでの手順）
+https://www.ekit-tech.com/?p=3234
+
+
 ## ESP32 技術基準適合証明
 AliExpressでESP32を買ったら偽物が来た話 (2022-03-06)
 https://zenn.dev/kinoenejp/articles/bd9d8aca6ea82e
