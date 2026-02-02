@@ -6,10 +6,12 @@ https://www.espressif.com/ja-jp/products/socs/esp32
 https://ja.wikipedia.org/wiki/ESP32
 
 ## はじめ方
-2021年10月31日
-ESP32の初期設定（Arduino IDEの導入からLチカまでの手順）
+ESP32の初期設定 (Arduino IDEの導入からLチカまでの手順) (2021-10-31)
 https://www.ekit-tech.com/?p=3234
 
+## WiFi
+【ESP32プログラム】WiFiに繋げてみよう！①ルータに繋げる方法 (2024-11-27)
+https://note.com/yoshiaki_saito/n/n9d01401380b8
 
 ## ESP32 技術基準適合証明
 AliExpressでESP32を買ったら偽物が来た話 (2022-03-06)
