@@ -6,3 +6,6 @@ Arduinoガイド：基本から種類・活用法まで初心者にもわかり�
 https://jp.rs-online.com/web/content/discovery/ideas-and-advice/arduino-guide
 
 
+## Arduino Nano
+https://elchika.com/dic/Arduino_Nano/
+
