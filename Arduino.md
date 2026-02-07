@@ -9,3 +9,5 @@ https://jp.rs-online.com/web/content/discovery/ideas-and-advice/arduino-guide
 ## Arduino Nano
 https://elchika.com/dic/Arduino_Nano/
 
+https://robotcoders.net/2022/05/datasheetarduinonano/
+
