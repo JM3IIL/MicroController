@@ -11,3 +11,7 @@ https://elchika.com/dic/Arduino_Nano/
 
 https://robotcoders.net/2022/05/datasheetarduinonano/
 
+【電子工作】Arduino Nanoの基本仕様・ピン配列まとめ！ (2022-08-20)
+https://burariweb.info/electronic-work/arduino-nano-specification-summary.html
+
+
