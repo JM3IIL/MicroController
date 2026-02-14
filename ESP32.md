@@ -9,6 +9,8 @@ https://ja.wikipedia.org/wiki/ESP32
 ESP32の初期設定 (Arduino IDEの導入からLチカまでの手順) (2021-10-31)
 https://www.ekit-tech.com/?p=3234
 
+https://interface.cqpub.co.jp/esp32-arduino-ide-2/
+
 ## WiFi
 【ESP32プログラム】WiFiに繋げてみよう！①ルータに繋げる方法 (2024-11-27)
 https://note.com/yoshiaki_saito/n/n9d01401380b8
