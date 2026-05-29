@@ -15,3 +15,7 @@ https://robotcoders.net/2022/05/datasheetarduinonano/
 https://burariweb.info/electronic-work/arduino-nano-specification-summary.html
 
 
+<!-- 
+Arduino UNO R3 \1,999- 2026-01-03 Amazon
+Arduino NANO V3 *2 \1,353- 2025-03-01 Amazon 
+-->
