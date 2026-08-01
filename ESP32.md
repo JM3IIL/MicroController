@@ -5,6 +5,9 @@ https://www.espressif.com/ja-jp/products/socs/esp32
 
 https://ja.wikipedia.org/wiki/ESP32
 
+Freenove ESP32-S3 Board Lite 16MB Flash (2026-08-01 ¥2,380-)
+https://www.amazon.co.jp/dp/B0FRRH9NCP
+
 ## はじめ方
 ESP32の初期設定 (Arduino IDEの導入からLチカまでの手順) (2021-10-31)
 https://www.ekit-tech.com/?p=3234
