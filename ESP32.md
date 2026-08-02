@@ -8,7 +8,7 @@ https://ja.wikipedia.org/wiki/ESP32
 Freenove ESP32-S3 Board Lite 16MB Flash (2026-08-01 ¥2,380-)
 https://www.amazon.co.jp/dp/B0FRRH9NCP
 
-Hailege 2.2" ILI9225 SPI TFT LCDディスプレイ176X220 (2026-08-01 \1,500-)
+Hailege 2.2" ILI9225 SPI TFT LCDディスプレイ176X220 (2026-08-01 ¥1,500-)
 https://www.amazon.co.jp/dp/B08D7DXKZ8
 
 ## はじめ方
