@@ -11,6 +11,10 @@ https://www.amazon.co.jp/dp/B0FRRH9NCP
 Hailege 2.2" ILI9225 SPI TFT LCDディスプレイ176X220 (2026-08-01 ¥1,500-)
 https://www.amazon.co.jp/dp/B08D7DXKZ8
 
+Hailege 2.4" ILI9341 240x320 SPI TFT LCD Display (2026-08-01 ¥1,550-)
+https://www.amazon.co.jp/dp/B08C5D8ZCQ
+
+
 ## はじめ方
 ESP32の初期設定 (Arduino IDEの導入からLチカまでの手順) (2021-10-31)
 https://www.ekit-tech.com/?p=3234
