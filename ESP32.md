@@ -46,4 +46,4 @@ https://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=211&TC=N&PK=
 (ESP32-WROVER-E)
 https://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=211&TC=N&PK=1&FN=200604N211&SN=%E8%AA%8D%E8%A8%BC&LN=38&R1=*****&R2=*****
 
-https://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jk01&NUM_TYPE=1&NUM=211-200403&NAM=&FOM=&PC=&YAR_FROM=&MON_FROM=&DAY_FROM=&YAR_TO=&MON_TO=&DAY_TO=&RAD=00-00-00-00&TEC=1&TEC=2&TEC=3&TEC=4&TEC=5&TEC=6&TEC=7&SC=1#searchlist
+https://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jk01&NUM_TYPE=1&NUM=211-200403&NAM=&FOM=&PC=&YAR_FROM=&MON_FROM=&DAY_FROM=&YAR_TO=&MON_TO=&DAY_TO=&RAD=00-00-00-00&TEC=1&TEC=2&TEC=3&TEC=4&TEC=5&TEC=6&TEC=7&SC=1
