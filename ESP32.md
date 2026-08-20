@@ -40,7 +40,7 @@ https://www.cat-one.net/2021/04/03/trial-of-esp32-cam-under-japanese-special-leg
 
 ## 総務省 総合通信基盤局 電波部 電波環境課 認証推進室 : 技術基準適合証明等を受けた機器の検索
 工事設計認証番号 	211-161007
-https://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=211&TC=N&PK=1&FN=181126N211&SN=%E8%AA%8D%E8%A8%BC&LN=3&R1=*****&R2=*****
+<a HREF="https://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=211&TC=N&PK=1&FN=181126N211&SN=%E8%AA%8D%E8%A8%BC&LN=3&R1=*****&R2=*****"> 211-161007</a>
 
 工事設計認証番号 	211-200403
 (ESP32-WROVER-E)
